@@ -3,7 +3,7 @@
 - Gabriel de Castro Dias - 211055432
 
 ## What is MemoryMaze?
-This is my game created for the discipline of Introduction of Embedded Systems at University of Brasília 2025.1
+This is my game created for the discipline of Introduction to Embedded Systems at University of Brasília 2025.1
 
 You can read the project requirements on "DE1-Games.pdf"
 
@@ -56,4 +56,5 @@ All files has comments explaining the basic of how it works
 
 
  
+
 
